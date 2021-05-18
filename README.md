@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Studying Third year Computer Science and Engineering
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on Web Development Projects
